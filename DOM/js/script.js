@@ -20,7 +20,7 @@ function changeText(){
     return;
   }
   button.innerHTML = darkMode;
-    h1.innerHTML = ligthMode + "ON";
+  h1.innerHTML = ligthMode + "ON";
 
 }
 
